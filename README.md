@@ -53,3 +53,6 @@ _Key Features:_
 **Freezed:** Generates immutable data classes for better predictability and immutability.
 **Get It:** Employs dependency injection for a more modular and testable codebase.
 
+
+
+
