@@ -18,7 +18,7 @@ Clean Architecture is a software design pattern that promotes separation of conc
 
 **Project Structure**
 
-lib/
+****lib/
 ├── core/
 │   ├── error_handler.dart
 ├── data/
@@ -43,7 +43,8 @@ lib/
 │       └── user_page.dart
 ├── injection.dart
 └── main.dart
-Key Features:
+
+_Key Features:_****
 
 **Internationalization:** (Add this later if not already included)
 **Themes:** (Add this later if not already included)
